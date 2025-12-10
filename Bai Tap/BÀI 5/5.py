@@ -1,4 +1,4 @@
-print("HO DUC Toan")
+print("Trần Dương Quốc Bảo")
 print("245752021610162")
 
 import modulecau5bai5
@@ -16,3 +16,4 @@ min_value = modulecau5bai5.tim_min(ds)
 print("Danh sách sau khi sắp xếp:", ds_sap_xep)
 print("Phần tử lớn nhất là:", max_value)
 print("Phần tử nhỏ nhất là:", min_value)
+
