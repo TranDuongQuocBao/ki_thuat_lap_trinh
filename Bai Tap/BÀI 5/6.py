@@ -1,5 +1,5 @@
-print("HO Duc Toan")
-print("245752021610012")
+print("Trần Dương Quốc Bảo")
+print("245752021610170")
 import modulecau5bai5
 n = int(input("Nhập số lượng phần tử trong danh sách: "))
 
@@ -20,3 +20,4 @@ vitri1= sapxep.index(maxx)
 vitri2= sapxep.index(minn)
 print("vi trí của giá trị lớn nhất là",vitri1+1)
 print("vi trí của giá trị nhỏ nhất là",vitri2+1)
+
