@@ -1,4 +1,4 @@
-print("HỒ Đức Toàn")
+print("Trần Dương Quốc Bảo")
 class Hinhchunhat:
     def __init__(self, chieudai, chieurong):
         self.chieudai = chieudai
@@ -12,3 +12,4 @@ dai= float(input('nhap chieu dai hinh chư nhật: '))
 rong= float(input('nhap chieu rong hinh chư nhật: '))
 hcn = Hinhchunhat(dai,rong)
 print("Diện tích hình chữ nhật là:", hcn.dientich())
+
