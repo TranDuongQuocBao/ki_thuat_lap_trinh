@@ -1,4 +1,4 @@
-print('HO Duc Toan')
+print('Trần Dương Quốc Bảo')
 class DaoNguocChuoi:
     def __init__(self, chuoi):
         self.chuoi = chuoi
@@ -14,3 +14,4 @@ doi_tuong = DaoNguocChuoi(chuoi_goc)
 chuoi_dao_nguoc = doi_tuong.dao_nguoc_tung_tu()
 print("Chuỗi gốc:", chuoi_goc)
 print("Chuỗi sau khi đảo ngược từng từ:", chuoi_dao_nguoc)
+
