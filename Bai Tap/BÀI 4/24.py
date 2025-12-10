@@ -1,0 +1,5 @@
+s = input("Nhập một câu: ")
+upper = sum(ch.isupper() for ch in s)
+lower = sum(ch.islower() for ch in s)
+print("Số chữ hoa:", upper)
+print("Số chữ thường:", lower)

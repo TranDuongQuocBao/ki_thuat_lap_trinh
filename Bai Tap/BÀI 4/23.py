@@ -1,0 +1,5 @@
+s = input("Nhập một câu: ")
+letters = sum(ch.isalpha() for ch in s)
+digits = sum(ch.isdigit() for ch in s)
+print("Số chữ cái:", letters)
+print("Số chữ số:", digits)
